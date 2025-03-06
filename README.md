@@ -1,5 +1,8 @@
 # Padrão MVC em Aplicações Web
 
+![Imagem padrão MVC](assets/images/mvc.png)
+
+
 ## Introdução
 O **padrão MVC** (Model-View-Controller) é uma arquitetura de software amplamente utilizada no desenvolvimento de aplicações web. Ele oferece uma separação clara entre as responsabilidades de cada camada da aplicação, facilitando a manutenção, escalabilidade e organização do código.
 
