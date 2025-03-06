@@ -1,0 +1,5 @@
+Modelagem - Models
+
+As Models são a camada da aplicação web responsável por implementar toda a regra de negócio do aplicativo, além de gerenciar os dados.
+
+Um exemplo clássico de uma Model é que, geralmente, ela representa uma tabela do banco de dados, sendo conhecida também como uma entidade.

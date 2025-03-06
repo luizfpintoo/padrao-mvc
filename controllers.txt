@@ -1,0 +1,5 @@
+Controlador - Controllers
+
+Os Controllers são responsáveis por manipular os dados vindos da camada de visualização, processá-los e enviá-los para a Model.
+
+Suas principais responsabilidades incluem servir como intermediários, enviando dados para a Model e recebendo-os de volta para retornar à camada de visualização.

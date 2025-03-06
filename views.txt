@@ -1,0 +1,3 @@
+Visualização - View
+
+As Views são responsáveis por renderizar as informações para o usuário. Elas recebem os dados da Controller e exibem essas informações de forma compreensível.
